@@ -421,12 +421,16 @@
         ],
         "nodes": [
             {
-                "url": "wss://sys.ibp.network/statemine",
-                "name": "IBP1 node"
+                "url": "wss://asset-hub-kusama-rpc.n.dwellir.com",
+                "name": "Dwellir node"
             },
             {
-                "url": "wss://asset-hub-kusama.dotters.network",
-                "name": "IBP2 node"
+                "url": "wss://rpc-asset-hub-kusama.luckyfriday.io",
+                "name": "Lucky Friday node"
+            },
+            {
+                "url": "wss://kusama-asset-hub-rpc.polkadot.io",
+                "name": "Parity node"
             }
         ],
         "explorers": [
