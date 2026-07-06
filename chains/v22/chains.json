@@ -8167,16 +8167,8 @@
         ],
         "nodes": [
             {
-                "url": "wss://nexus.ibp.network",
-                "name": "IBP1 node"
-            },
-            {
-                "url": "wss://nexus.dotters.network",
-                "name": "IBP2 node"
-            },
-            {
-                "url": "wss://hyperbridge-nexus-rpc.blockops.network",
-                "name": "BlockOps node"
+                "url": "wss://nexus.rpc.polytope.technology",
+                "name": "Polytope Labs node"
             }
         ],
         "explorers": [
